@@ -1,5 +1,5 @@
-Nama : Ahmad Tri Fhatoni    
-NIM : 21102260
+Nama :Dela Setiowati
+NIM : 21103083
 
 1. pada tampilan dashboard utama, terdapat 3 menu, yaitu beasiswa, daftar, dan hasil.
 2. pada menu beasiswa, pengguna dapat melihat ketentuan dan syarat yang diperlukakan untuk mendaftar beasiswa.
